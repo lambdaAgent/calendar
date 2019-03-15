@@ -18,11 +18,12 @@ The Requirement as below:
 3. Each cell should list the date of the day
 4. Do consider for leap year for february
 5. It should show what is the current month and current year
-6. User can switch to next month or prev month with buttons
-7. Provide simple interaction like: 
+6. Provide simple interaction like: 
    a. user can input a text in one cell
-   b. when user mouseover over a cell, that cell will be highlighted
+   b. when user mouseover over a cell, that cell will be highlighted with background-color
    c. user could use mouse-wheelup or wheeldown to change month.
+7. User can switch to next month or prev month with buttons
+
 
 Great to have: 
 1. User can pick a month and a year randomly.
